@@ -1,4 +1,4 @@
-# Optical Diffraction Simulator
+# Optical Diffraction Simulator (README IS AI-GENERATED)
 
 A clean, interactive Python application that simulates 2D optical diffraction
 using Fourier optics — built with NumPy, Matplotlib, and PyQt5.
