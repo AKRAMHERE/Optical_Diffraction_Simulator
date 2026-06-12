@@ -1,7 +1,6 @@
 # Optical Diffraction Simulator 
 A clean, interactive Python application that simulates 2D optical diffraction
-using Fourier optics — built with NumPy, Matplotlib, and PyQt5. ReadMe is generated with AI, manually reviewed
-
+using Fourier optics: built with NumPy, Matplotlib, and PyQt5. 
 ---
 
 ## Physics in Simple Terms
