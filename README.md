@@ -6,7 +6,7 @@ using Fourier optics: built with NumPy, Matplotlib, and PyQt5.
 ## Physics in Simple Terms
 
 When light passes through a small opening (aperture), it doesn't travel in
-a perfectly straight line — it **bends and spreads**. This is called
+a perfectly straight line: it **bends and spreads**. This is called
 **diffraction**.
 
 In the far field (Fraunhofer regime), the intensity pattern you'd observe on
